@@ -1,0 +1,23 @@
+infraestrutura/arquitetura de software
+	http/https
+	rest e apis
+	scale up/ scale out	
+
+
+
+security
+	permissão;
+	dados;
+	limites;
+	regras;
+	usuario;
+	app;
+
+	ssl/tls - tipos de criptografia.
+	auth - autenticação verifica a id de um usuario.
+
+	ataques e vulnerabilidade- SQL injection, XSS, CSRF.
+	2FA - autenticação de 2 fatores;
+	
+	firewall - sistema de segurança que filtra o pacote de rede.
+		   um bloqueio em algum site que possa ter algo ilicito por exemplo
